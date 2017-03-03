@@ -14,3 +14,12 @@ enable crosswalks for video annotation data from established video annotation
 tools.
 
 For further details, please contact walkowski at bbaw dot de.
+
+Status
+------
+
+For now ANVIL, ELAN and OVA are included into the evaluation. If you are
+interested to propose another tool and able to contribute to the crosswalk for
+this tool please write to the e-mail above.
+
+- Is there interest by developers of Pando.ra to consider this tool too?
